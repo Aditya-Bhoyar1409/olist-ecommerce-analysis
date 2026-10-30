@@ -61,7 +61,7 @@ Aditya Bhoyar - Data Analyst | Pune, India
 
 📍 Location: Pune, Maharashtra, India
 
-🔗 GitHub: github.com/AdityaBhoyar-14
+🔗 GitHub: github.com/AdityaBhoyar1409
 
 📧 Email: adityabhoyar160@mail.com
 
