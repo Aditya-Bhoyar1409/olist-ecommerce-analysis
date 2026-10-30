@@ -60,8 +60,11 @@ python import_olist.py
 Aditya Bhoyar - Data Analyst | Pune, India
 
 📍 Location: Pune, Maharashtra, India
+
 🔗 GitHub: github.com/AdityaBhoyar-14
+
 📧 Email: adityabhoyar160@mail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/aditya-bhoyar14
 
 Feel free to contact me for collaborations or opportunities!
