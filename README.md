@@ -20,6 +20,12 @@ Database: olist_store_analysis
 - olist_geolocation_dataset (1,000,163 rows)
 - product_category_name_translation (71 rows)
 
+## 📂 Dataset Source
+Dataset: Brazilian E-Commerce Public Dataset by Olist
+Source: Kaggle - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Size: 9 Tables, 100k+ Orders, 2016-2018
+Reason for not uploading: Dataset >100MB, exceeds GitHub limit. Download from Kaggle link above.
+
 ## 🎯 Business KPIs & Findings
 
 ### KPI 1: Weekday vs Weekend Payment
